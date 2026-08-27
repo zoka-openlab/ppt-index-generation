@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local PowerPoint material and generated outputs may contain sensitive data.
+*.ppt
+*.pptx
+PPT_Index/
+outputs/
